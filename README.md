@@ -1,4 +1,4 @@
-</> Markdown
+
 # Projet Aviateurs
 ## Table des matières
 1. [Liste des aviateurs](liste-aviateurs.md)
