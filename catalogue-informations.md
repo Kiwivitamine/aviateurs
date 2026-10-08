@@ -1,5 +1,5 @@
 # Catalogue des informations
-## Objets
+## Objets (avec leurs propriétés)
 ### Personne
 - nom
 - date de naissance
