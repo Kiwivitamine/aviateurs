@@ -1,9 +1,9 @@
 Ce document contient le commentaire, avec exemples, du modèle conceptuel
-## Person
+# Person
 Tout être humain.
-# Propriétés
+## Propriétés
 Nom standard, notice, le genre, éventuellement la date de mort. Il s'agit d'une classe objet (persistent item)
-## Occupation
+# Occupation
 Un métier ou tout autre type d'occupation Il s'agit d'une classe objet (persistent item)
 ## Propriétés
 Nom standard, notice
