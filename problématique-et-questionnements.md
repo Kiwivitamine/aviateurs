@@ -8,3 +8,4 @@ En adoptant une démarche exploratoire, il s'agit de proposer un modèle du cham
 - Dans quelles compagnies servent-ils ?
 - Quels conflits ont-ils traversés ?
 - Existe-t-il des liens entre origine géographique, compagnie et distinctions ?
+- Est-ce que beaucoup d'aviateurs sont morts durant la seconde guerre mondiale ?
