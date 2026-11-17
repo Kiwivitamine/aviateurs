@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-        <mxGraphModel dx="1036" dy="373" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#F1F1F1" math="0" shadow="0">
+        <mxGraphModel dx="1448" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" background="#F1F1F1" math="0" shadow="0">
             <root>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-0"/>
                 <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0"/>
@@ -45,11 +45,6 @@
                 <mxCell id="JZHaAjmTCONtawFXMcyy-85" connectable="0" parent="JZHaAjmTCONtawFXMcyy-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="1" vertex="1">
                     <mxGeometry relative="1" x="-0.6994078960847382" as="geometry">
                         <mxPoint x="360" y="235" as="offset"/>
-                    </mxGeometry>
-                </mxCell>
-                <mxCell id="JZHaAjmTCONtawFXMcyy-86" connectable="0" parent="JZHaAjmTCONtawFXMcyy-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="0. .N" vertex="1">
-                    <mxGeometry relative="1" x="0.191247515826999" as="geometry">
-                        <mxPoint x="140" y="-210" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="JZHaAjmTCONtawFXMcyy-87" connectable="0" parent="JZHaAjmTCONtawFXMcyy-56" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="1" vertex="1">
@@ -232,6 +227,11 @@
                 <mxCell id="JZHaAjmTCONtawFXMcyy-70" connectable="0" parent="JZHaAjmTCONtawFXMcyy-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="est localisée à" vertex="1">
                     <mxGeometry relative="1" x="-0.522" y="-13" as="geometry">
                         <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4v1bAl87IdRo_s6_O5v5-37" connectable="0" parent="JZHaAjmTCONtawFXMcyy-69" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;" value="1" vertex="1">
+                    <mxGeometry relative="1" x="0.9256" y="11" as="geometry">
+                        <mxPoint x="-3" y="4" as="offset"/>
                     </mxGeometry>
                 </mxCell>
                 <mxCell id="Bw8D9-mf-STMI-rw64IU-70" parent="WIyWlLk6GJQsqaUBKTNV-1" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" value="Compagnie" vertex="1">
